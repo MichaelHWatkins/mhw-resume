@@ -1,8 +1,9 @@
 import React from 'react'
+import TopBar from './TopBar'
 
 const ProjectsContainer = (props) => {
   return(
-    <div>projtest</div>
+    <div><TopBar/></div>
   )
 }
 

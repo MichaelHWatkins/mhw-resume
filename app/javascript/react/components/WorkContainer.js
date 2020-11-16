@@ -1,8 +1,9 @@
 import React from 'react'
+import TopBar from './TopBar'
 
 const WorkContainer = (props) => {
   return(
-    <div>Worktest</div>
+    <div><TopBar/></div>
   )
 }
 

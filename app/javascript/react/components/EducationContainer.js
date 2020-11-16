@@ -1,8 +1,10 @@
 import React from 'react'
+import TopBar from './TopBar'
 
 const EducationContainer = (props) => {
   return(
-    <div>edutest</div>
+
+    <div><TopBar/></div>
   )
 }
 

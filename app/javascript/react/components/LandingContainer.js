@@ -1,8 +1,11 @@
 import React from 'react'
+import TopBar from './TopBar'
 
 const LandingContainer = (props) => {
   return(
-    <div>lantest</div>
+    <div>
+      <TopBar/>
+    </div>
   )
 }
 
