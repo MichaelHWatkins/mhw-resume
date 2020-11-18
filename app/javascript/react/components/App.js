@@ -5,6 +5,7 @@ import WorkContainer from './WorkContainer'
 import LandingContainer from './LandingContainer'
 import ProjectsContainer from './ProjectsContainer'
 import EducationContainer from './EducationContainer'
+import '../../../assets/stylesheets/main.scss';
 
 
 export const App = (props) => {

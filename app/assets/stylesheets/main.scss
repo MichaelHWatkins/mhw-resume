@@ -22,28 +22,55 @@ h1 {
   background: url("work.jpg");
   min-height: 100vh;
   min-width: 100vw;
+  background-size:contain;
+
 }
 
 .backgroundProjects {
   background: url("project.jpg");
   min-height: 100vh;
   min-width: 100vw;
+  background-size:contain;
+
 }
 
 .backgroundEducation {
   background: url("education.jpg");
   min-height: 100vh;
   min-width: 100vw;
+  background-size:contain;
+
 }
 
 .backgroundLanding {
-  background: url("university-st-andrews.jpg");
+  background-image: url("university-st-andrews.jpg");
   min-height: 100vh;
   min-width: 100vw;
+  background-size:contain;
 }
 
-.personalinfobox {
+.personalinfo {
   background-color: white;
-  min-height: 100vh;
+  height: 100%;
   min-width: 30vw;
+  margin-top: 30px;
+  margin-left: 20px;
+}
+
+.aboutme {
+  background-color: white;
+  height: 100%;
+  min-width: 50vw;
+  margin-top: 30px;
+  margin-left: 20px;
+}
+
+img[src*=smartphoneicon] {
+  height: auto;
+  width: 8%;
+}
+
+img[src*=email] {
+  height: auto;
+  width: 8%;
 }
