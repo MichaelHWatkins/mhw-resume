@@ -3,7 +3,11 @@ import TopBar from './TopBar'
 
 const ProjectsContainer = (props) => {
   return(
-    <div><TopBar/></div>
+    <div>
+      <TopBar/>
+      <div className='backgroundProjects'>
+      </div>
+    </div>
   )
 }
 

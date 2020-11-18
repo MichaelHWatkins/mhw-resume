@@ -18,6 +18,24 @@ h1 {
   padding: 10px
 }
 
+.backgroundWork {
+  background: url("work.jpg");
+  min-height: 100vh;
+  min-width: 100vw;
+}
+
+.backgroundProjects {
+  background: url("project.jpg");
+  min-height: 100vh;
+  min-width: 100vw;
+}
+
+.backgroundEducation {
+  background: url("education.jpg");
+  min-height: 100vh;
+  min-width: 100vw;
+}
+
 .backgroundLanding {
   background: url("university-st-andrews.jpg");
   min-height: 100vh;

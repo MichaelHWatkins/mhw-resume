@@ -6,15 +6,6 @@ const LandingContainer = (props) => {
     <div>
       <TopBar/>
       <div className='backgroundLanding '>
-        <div className='container-fluid'>
-          <div className='row'>
-            <div className='personalinfobox col-sm'>
-              <div className='titlebar'>
-                <h1>Contact Information</h1>
-              </div>
-            </div>
-          </div>
-        </div>
       </div>
     </div>
   )

@@ -3,8 +3,11 @@ import TopBar from './TopBar'
 
 const EducationContainer = (props) => {
   return(
-
-    <div><TopBar/></div>
+    <div>
+      <TopBar/>
+      <div className='backgroundEducation'>
+      </div>
+    </div>
   )
 }
 
