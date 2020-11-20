@@ -7,7 +7,7 @@ const TopBar = (props) => {
       <h1>Michael Watkins</h1>
       <Nav className="ml-auto">
         <div className='landinglink'>
-          <Link to={`/`}>Resume</Link>
+          <Link to={`/`}>About Me</Link>
         </div>
         <div className='worklink'>
           <Link to={`/work`}>Work</Link>
