@@ -55,6 +55,7 @@ h1 {
   min-width: 30vw;
   margin-top: 30px;
   margin-left: 20px;
+  border-radius: 25px;
 }
 
 .aboutme {
@@ -65,12 +66,53 @@ h1 {
   margin-left: 20px;
 }
 
+h4 {
+  font-family: serif;
+}
+
 img[src*=smartphoneicon] {
   height: auto;
   width: 8%;
 }
 
+.underline{
+  border-bottom: 5px solid black;
+}
+
 img[src*=email] {
   height: auto;
   width: 8%;
+}
+
+img[src*=github] {
+  float: left;
+}
+
+img[src*=linkedin] {
+  float: right;
+  margin-top: 30px;
+}
+
+img[src*=launch] {
+  float: right;
+}
+
+.center {
+  text-align: center;
+}
+
+.aboutme {
+  border-radius: 25px;
+}
+
+.bgwork {
+  background-color: white;
+  margin-top: 30px;
+  margin-left: 30px;
+}
+
+.bgworktext {
+  background-color: orange;
+  margin-top: 30px;
+  border: 5px solid black;
 }
