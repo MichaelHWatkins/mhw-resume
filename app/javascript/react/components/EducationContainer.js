@@ -9,8 +9,8 @@ const EducationContainer = (props) => {
       <TopBar/>
       <div className='backgroundEducation'>
         <div className='row'>
-          <div className='col-3'>
-            <img src={crest} alt="crest"/>
+          <div className='bgedu1 col-3'>
+            <img className="borderbottom" src={crest} alt="crest"/>
             <h4>University of St.Andrews, Scotland</h4>
             <h4>Years Attended</h4>
             <p>2010-2014</p>
@@ -19,8 +19,8 @@ const EducationContainer = (props) => {
             <h4>What I learned</h4>
             <p>A lot</p>
           </div>
-          <div className='col-3'>
-            <img src={crestNEU} alt="crest"/>
+          <div className='bgedu2 col-3'>
+            <img className="borderbottom" src={crestNEU} alt="crest"/>
             <h4>Northeastern University, Boston</h4>
             <h4>Years Attended</h4>
             <p>2018-2019</p>
@@ -29,9 +29,9 @@ const EducationContainer = (props) => {
             <h4>What I learned</h4>
             <p>A lot</p>
           </div>
-          <div className='col-3'>
-            <img src={launch} alt="launchcrest"/>
-            <h4>Northeastern University, Boston</h4>
+          <div className='bgedu3 col-3'>
+            <img className="borderbottom" src={launch} alt="launchcrest"/>
+            <h4>Launch Academy, Boston</h4>
             <h4>Years Attended</h4>
             <p>2020</p>
             <h4>Certificate</h4>
