@@ -5,7 +5,7 @@ import smartphone from '../../../assets/images/smartphoneicon.png'
 import email from '../../../assets/images/email.png'
 import github from '../../../assets/images/github.png'
 import linkedin from '../../../assets/images/linkedin.png'
-import launch from '../../../assets/images/launch.png'
+import launchlanding from '../../../assets/images/launchlanding.png'
 
 const LandingContainer = (props) => {
   return(
@@ -41,7 +41,7 @@ const LandingContainer = (props) => {
             <div className='row'>
               <div className="col-sm"><a href="https://github.com/MichaelHWatkins"><img className="gitlogo" src={github}/></a></div>
               <div className="col-sm"><a href="https://www.linkedin.com/in/michael-h-watkins/"><img className="linklogo" src={linkedin}/></a></div>
-              <div className="col-sm"><a href="https://launchpass.launchacademy.com/users/MichaelWatkins2567/launcher_profile"><img className="launchlogo" src={launch}/></a></div>
+              <div className="col-sm"><a href="https://launchpass.launchacademy.com/users/MichaelWatkins2567/launcher_profile"><img className="launchlogo" src={launchlanding}/></a></div>
             </div>
           </div>
 

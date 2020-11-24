@@ -108,7 +108,14 @@ img[src*=launch] {
   width: 60%;
   display: block;
   margin-left: auto;
-  margin-right: 70px;
+  margin-right: 60px;
+}
+
+img[src*=launchlanding] {
+  width: 200%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 img[src*=neu] {
