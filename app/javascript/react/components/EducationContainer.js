@@ -17,7 +17,7 @@ const EducationContainer = (props) => {
             <h4>Major</h4>
             <p>International Relations</p>
             <h4>What I learned</h4>
-            <p>A lot</p>
+            <p>Learned basic research skills, as well as basic foreign policy.</p>
           </div>
           <div className='bgedu2 col-3'>
             <img className="borderbottom" src={crestNEU} alt="crest"/>
@@ -27,7 +27,7 @@ const EducationContainer = (props) => {
             <h4>Certificate</h4>
             <p>Computer Science</p>
             <h4>What I learned</h4>
-            <p>A lot</p>
+            <p>Learned basic computer science fundamentals, as well as discrete math.</p>
           </div>
           <div className='bgedu3 col-3'>
             <img className="borderbottom" src={launch} alt="launchcrest"/>
@@ -37,7 +37,7 @@ const EducationContainer = (props) => {
             <h4>Certificate</h4>
             <p>Full Stack Development</p>
             <h4>What I learned</h4>
-            <p>A lot</p>
+            <p>Learned basic industry applicable coding skills, as well as git and terminal commands.</p>
           </div>
         </div>
       </div>

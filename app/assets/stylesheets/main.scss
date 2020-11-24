@@ -141,17 +141,23 @@ img[src*=neu] {
 .bgedu1 {
   background-color: white;
   margin-left: 100px;
+  border: 5px solid black;
+  margin-top: 30px;
 }
 
 .bgedu2 {
   background-color: white;
   margin-left: 100px;
+  border: 5px solid black;
+  margin-top: 30px;
 }
 
 .bgedu3 {
   background-color: white;
   margin-left: 100px;
   margin-right: 30px;
+  border: 5px solid black;
+  margin-top: 30px;
 }
 
 .bordertop {
@@ -160,4 +166,31 @@ img[src*=neu] {
 
 .borderbottom {
   border-bottom: 5px solid black;
+}
+
+.bgproj1 {
+  background-color: orange;
+  color: blue;
+  margin-top: 30px;
+  margin-left: 60px;
+}
+
+.bgproj2 {
+  background-color: orange;
+  color: blue;
+  margin-top: 30px;
+  margin-left: 60px;
+}
+
+.bgproj3 {
+  background-color: orange;
+  color: blue;
+  margin-top: 30px;
+  margin-left: 60px;
+}
+
+.gitcat {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
