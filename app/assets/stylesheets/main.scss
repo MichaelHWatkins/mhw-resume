@@ -19,7 +19,7 @@ h1 {
 }
 
 .backgroundWork {
-  background: url("work.jpg");
+  background: image-url("work.png");
   min-height: 100vh;
   min-width: 100vw;
   background-size:contain;
@@ -27,7 +27,7 @@ h1 {
 }
 
 .backgroundProjects {
-  background: url("project.jpg");
+  background: image-url("project.png");
   min-height: 100vh;
   min-width: 100vw;
   background-size:contain;
@@ -35,7 +35,7 @@ h1 {
 }
 
 .backgroundEducation {
-  background: url("education.jpg");
+  background: image-url("education.png");
   min-height: 100vh;
   min-width: 100vw;
   background-size:contain;
@@ -43,7 +43,7 @@ h1 {
 }
 
 .backgroundLanding {
-  background-image: url("university-st-andrews.jpg");
+  background-image: image-url("university-st-andrews.png");
   min-height: 100vh;
   min-width: 100vw;
   background-size:contain;
@@ -173,6 +173,7 @@ img[src*=neu] {
   color: blue;
   margin-top: 30px;
   margin-left: 60px;
+  border: 5px solid black;
 }
 
 .bgproj2 {
@@ -180,6 +181,7 @@ img[src*=neu] {
   color: blue;
   margin-top: 30px;
   margin-left: 60px;
+  border: 5px solid black;
 }
 
 .bgproj3 {
@@ -187,6 +189,7 @@ img[src*=neu] {
   color: blue;
   margin-top: 30px;
   margin-left: 60px;
+  border: 5px solid black;
 }
 
 .gitcat {
