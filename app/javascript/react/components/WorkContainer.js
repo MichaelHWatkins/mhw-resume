@@ -7,23 +7,23 @@ const WorkContainer = (props) => {
       <TopBar/>
       <div className='backgroundWork'>
         <div className='row'>
-          <div className='bgwork col-3'>
+          <div className='bgwork col-xs-12 col-3'>
             <h4>Contractor</h4>
             <p>Independent</p>
             <h4>July 2016 - August 2018</h4>
           </div>
-          <div className='bgworktext col-8'>
+          <div className='bgworktext col-xs-12 col-8'>
             <p>Explored employment options, met with professionals in diverse industries and refocused efforts on future employment and goal setting.</p>
             <p> Volunteered at non-profits and worked temporarily at several for-profit organizations completing coordination and administrative tasks.</p>
           </div>
         </div>
         <div className='row'>
-          <div className='bgwork col-3'>
+          <div className='bgwork col-xs-12  col-3'>
             <h4>Contractor</h4>
             <p>Phil Watkins Public Affairs</p>
             <h4>July 2015 - August 2016</h4>
           </div>
-          <div className='bgworktext col-8'>
+          <div className='bgworktext col-xs-12 col-8'>
             <p>Oversaw responsibilities for closing my deceased father’s business</p>
             <p>Communicated with attorneys, lobbyists, public and private sector clients to provide final reports on legislative action and expenses</p>
             <p>Finalized billings to clients and oversaw the collection of contractual obligations</p>
@@ -35,12 +35,12 @@ const WorkContainer = (props) => {
           </div>
         </div>
         <div className='row'>
-          <div className='bgwork col-3'>
+          <div className='bgwork col-xs-12 col-3'>
             <h4>District Representative</h4>
             <p>Coongressman Newhouse's District Office</p>
             <h4>January 2015 - July 2015</h4>
           </div>
-          <div className='bgworktext col-8'>
+          <div className='bgworktext col-xs-12 col-8'>
             <p>Researched federal regulations for energy, health care, technology and more in preparation for weekly constituent meetings </p>
             <p>Maintained database of district media coverage </p>
             <p>Wrote daily executive reports relating to district activity </p>
