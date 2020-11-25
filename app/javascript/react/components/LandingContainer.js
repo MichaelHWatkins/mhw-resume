@@ -13,7 +13,7 @@ const LandingContainer = (props) => {
       <TopBar/>
       <div className='backgroundLanding container'>
         <div className='row'>
-          <div className='personalinfo col-xs-12 col-4'>
+          <div className='personalinfo col-xs-12 col-lg-4'>
             <h1 className='center'>Contact Information</h1>
             <img src={me} alt='me' />
             <div className="row">
@@ -33,7 +33,7 @@ const LandingContainer = (props) => {
               </div>
             </div>
           </div>
-          <div className='aboutme col-xs-12 col-6'>
+          <div className='aboutme col-xs-12 col-lg-6'>
             <h1 className="underline">About Me</h1>
             <h4>Hi my name is Michael Watkins. I am looking for my first job in coding, and while I currently live in Boston, I am open to living anywhere in the world as I have spent many years overseas, as well as a lot of places within the States.</h4>
             <h4>I am familiar with React.js, Bootstrap, Ruby and Ruby on Rails, and SQL via activerecord in Rails. The key thing for me would be to enhance my knowledge of these technologies while at the same time growing my knowledge of other methodologies and languages.</h4>
