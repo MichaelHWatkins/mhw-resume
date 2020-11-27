@@ -17,8 +17,8 @@ const LandingContainer = (props) => {
             <h1 className='center'>Contact Information</h1>
             <img src={me} alt='me' />
             <div className="row">
-              <div className="center col-6"><h4 className="bold">role desired</h4><p>Jr. Developer</p></div>
-              <div className="center col-6"><h4 className="bold">location</h4><p>Boston</p></div>
+              <div className="center col-6"><h4 className="bold">Role Desired</h4><p>Jr. Developer</p></div>
+              <div className="center col-6"><h4 className="bold">Location</h4><p>Boston</p></div>
             </div>
             <div className="row">
               <div className='center col-12'>
@@ -27,7 +27,7 @@ const LandingContainer = (props) => {
               </div>
               <div className='center col-12'>
                 <img src={email} alt='me' />
-                <p>michaelhugheswatkins@gmail.com</p>
+                <p><a href="mailto:michaelhugheswatkins@gmail.com">michaelhugheswatkins@gmail.com</a></p>
               </div>
               <div className='row'>
               </div>
