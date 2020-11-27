@@ -125,6 +125,13 @@ img[src*=neu] {
   margin-right: auto;
 }
 
+img[src*=gitcat] {
+  width: 62%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .center {
   text-align: center;
 }
@@ -176,24 +183,24 @@ img[src*=neu] {
 }
 
 .bgproj1 {
-  background-color: orange;
-  color: blue;
+  background-color: white;
+  color: black;
   margin-top: 30px;
   margin-left: 120px;
   border: 5px solid black;
 }
 
 .bgproj2 {
-  background-color: orange;
-  color: blue;
+  background-color: white;
+  color: black;
   margin-top: 30px;
   margin-left: 60px;
   border: 5px solid black;
 }
 
 .bgproj3 {
-  background-color: orange;
-  color: blue;
+  background-color: white;
+  color: black;
   margin-top: 30px;
   margin-left: 60px;
   margin-right: 120px;
