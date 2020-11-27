@@ -13,7 +13,7 @@ const LandingContainer = (props) => {
       <TopBar/>
       <div className='backgroundLanding container'>
         <div className='row'>
-          <div className='personalinfo col-xs-12 col-lg-4'>
+          <div className='personalinfo col-xs-12 col-lg-3'>
             <h1 className='center'>Contact Information</h1>
             <img src={me} alt='me' />
             <div className="row">
@@ -33,11 +33,11 @@ const LandingContainer = (props) => {
               </div>
             </div>
           </div>
-          <div className='aboutme col-xs-12 col-lg-6'>
+          <div className='aboutme col-xs-12 col-lg-7'>
             <h1 className="underline">About Me</h1>
             <h4>Hello, and thank you for taking the time to view my website!</h4>
-            <h4>My name is Michael Watkins, and I am currently pursuing an entry level position in the computer engineering field. While I currently live in Boston, I am open to relocation as I have spent many years studying and working internationally. During this time, I believe I have acquired the skillset to thrive in an unfamiliar environment and enjoy the opportunity to do so.</h4>
-            <h4>My competencies include a working knowledge of Javascript, React.js, Bootstrap, Ruby, Ruby on Rails, and SQL via Activerecord in Rails. One of my primary objectives in my first professional position would like to continue to expand these competencies, as well as add new methodologies to my arsenal to make myself as well rounded as possible for my employer.</h4>
+            <h4>My name is Michael Watkins, and I am currently pursuing an entry level position in the computer engineering field. While I currently live in Boston, I am open to relocation as I have spent many years studying and working both domestically and internationally. During this time, I believe I have acquired the skillset to thrive in an unfamiliar environment and enjoy the opportunity to do so.</h4>
+            <h4>My competencies include a working knowledge of Javascript, React.js, Bootstrap, Ruby, Ruby on Rails, and SQL via Activerecord in Rails. One of my primary objectives in my first professional position is to continue to expand these competencies, as well as add new methodologies to my arsenal to make myself as well rounded as possible for my employer.</h4>
             <h4 className='underline'>I hold a Bachelors in Arts in International Relations from the well-regarded University of Saint Andrews, as well as a Certificate in Computer Science Theory from Northeastern University. Subsequently, I went on to expand my knowledge in Computer Science by spending five months at the Launch Academy bootcamp. You can learn more about my background by following the below Github, LinkedIn, and Launch Academy links. My contact information is also included on this page. I am available for discussion at your convenience. I look forward to hearing from you.</h4>
             <div className='row'>
               <div className="col-sm"><a href="https://github.com/MichaelHWatkins"><img className="gitlogo" src={github}/></a></div>

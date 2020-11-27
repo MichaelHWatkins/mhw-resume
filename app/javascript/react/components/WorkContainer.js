@@ -37,7 +37,7 @@ const WorkContainer = (props) => {
         <div className='row'>
           <div className='bgwork col-xs-12 col-lg-3'>
             <h4>District Representative</h4>
-            <p>Coongressman Newhouse's District Office</p>
+            <p>District Office of Congressman Newhouse</p>
             <h4>January 2015 - July 2015</h4>
           </div>
           <div className='bgworktext col-xs-12 col-lg-8'>
