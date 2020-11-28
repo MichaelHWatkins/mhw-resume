@@ -126,7 +126,7 @@ img[src*=neu] {
 }
 
 img[src*=gitcat] {
-  width: 62%;
+  width: 30%;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -211,4 +211,12 @@ img[src*=gitcat] {
   margin-left: auto;
   margin-right: auto;
   display: block;
+  margin-top: 30px;
+}
+
+.player{
+  position: absolute;
+  top: 30;
+  left: 0;
+
 }
