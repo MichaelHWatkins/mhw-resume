@@ -30,7 +30,7 @@ const ProjectsContainer = (props) => {
                 <ul>CSS</ul>
               </div>
             </div>
-            <p><a href="https://github.com/veeveeanne/restaurants_in_cambridge"><img className="gitcat" src={gitcat}/></a></p>
+            <p><a href="https://github.com/veeveeanne/restaurants_in_cambridge"><img className="gitcat1" src={gitcat}/></a></p>
             <p className="center"><a href="http://cambridge-eats.herokuapp.com/">Cambridge Eats</a></p>
           </div>
           <div className='bgproj2 col-xs-12 col-lg-3'>
@@ -54,8 +54,19 @@ const ProjectsContainer = (props) => {
                 <ul>CSS</ul>
               </div>
             </div>
-            <a href="https://github.com/MichaelHWatkins/fantasy_portfolio"><img className="gitcat" src={gitcat}/></a>
+            <a href="https://github.com/MichaelHWatkins/fantasy_portfolio"><img className="gitcat2" src={gitcat}/></a>
             <p className="center"><a href="http://fantasy-portfolio-league.herokuapp.com/">Fantasy Portfolio League</a></p>
+            <hr className ="center"/>
+              <h3 className="bold">pitch video</h3>
+              <div className="wrapper">
+                <ReactPlayer
+                  className="player"
+                  url="https://vimeo.com/419942574"
+                  width='100%'
+                  top='100%'
+                  />
+              </div>
+            <hr className ="center"/>
           </div>
           <div className='bgproj3 col-xs-12 col-lg-3'>
             <h4>My Resume Website</h4>
@@ -69,7 +80,7 @@ const ProjectsContainer = (props) => {
                 <ul>PostgreSQL</ul>
               </div>
             </div>
-            <a href="https://github.com/MichaelHWatkins/mhw-resume"><img className="gitcat" src={gitcat}/></a>
+            <a href="https://github.com/MichaelHWatkins/mhw-resume"><img className="gitcat3" src={gitcat}/></a>
           </div>
         </div>
       </div>

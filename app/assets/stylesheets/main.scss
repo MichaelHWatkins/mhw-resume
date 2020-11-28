@@ -207,16 +207,34 @@ img[src*=gitcat] {
   border: 5px solid black;
 }
 
-.gitcat {
+.gitcat1 {
   margin-left: auto;
   margin-right: auto;
   display: block;
-  margin-top: 30px;
+  margin-top: 78px;
+}
+
+.gitcat2 {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.gitcat3 {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  margin-top: 220px;
+}
+
+.wrapper{
+  position: relative;
+  padding-top: 56.25%;
 }
 
 .player{
   position: absolute;
-  top: 30;
-  left: 0;
 
+  width: 50%;
+  height: 50%;
 }
