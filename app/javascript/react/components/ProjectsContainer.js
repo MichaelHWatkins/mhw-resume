@@ -11,8 +11,8 @@ const ProjectsContainer = (props) => {
         <div className='row'>
           <div className='bgproj1 col-xs-12 col-lg-3'>
             <h4>Cambridge Eats</h4>
-            <p>This project was built in two weeks. It was designed to give users a website to review restaurants in Cambridge, MA. Much like yelp you can sign in, write reviews of restaurants, as well as add new restaurants.</p>
-            <p className="center">Technologies used:</p>
+            <p>This project had a two week deadline. It was designed to give users a website to review restaurants in Cambridge, MA. Much like yelp you can sign in, write reviews of restaurants, as well as add new restaurants. This was built in conjunction with three other team members.</p>
+            <p className="bordertop center">Technologies used:</p>
             <div className="row">
               <div className="col-6">
                 <li>Ruby on Rails</li>
@@ -35,8 +35,8 @@ const ProjectsContainer = (props) => {
           </div>
           <div className='bgproj2 col-xs-12 col-lg-3'>
             <h4>Fantasy Portfolio</h4>
-            <p>This Project had a two week timeline. It was designed to give users an experience like a fantasy football leauge, only exchanging football teams for stocks on the stock exchange.</p>
-            <p className="center">Technologies used:</p>
+            <p>This Project was my first solo project and had a two week timeline. It was designed to give users an experience like a fantasy football leauge, only exchanging football teams for stocks on the stock exchange. Users can log in, make their own leauge and portfolio. Users can then add stocks to the portfolio, their score is calculated as: day that it is checked minus the day that it was created.</p>
+            <p className="bordertop center">Technologies used:</p>
             <div className="row">
               <div className="col-6">
                 <li>Ruby on Rails</li>
@@ -59,8 +59,8 @@ const ProjectsContainer = (props) => {
           </div>
           <div className='bgproj3 col-xs-12 col-lg-3'>
             <h4>My Resume Website</h4>
-            <p>This is what you are currently viewing. It was designed to put together all my job related information as well as give a sample of what I am able to do. It is mainly created using http and css.</p>
-            <p className="center">Technologies used:</p>
+            <p>This is what you are currently viewing. It was designed to put together all of my job related information, and to give a sample of what I am able to do. It is mainly created using http and css, with some React.js elements.</p>
+            <p className="bordertop center">Technologies used:</p>
             <div className="row">
               <div className="center col-12">
                 <li>Ruby on Rails</li>

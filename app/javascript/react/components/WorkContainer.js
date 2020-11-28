@@ -24,8 +24,8 @@ const WorkContainer = (props) => {
             <h4>July 2015 - August 2016</h4>
           </div>
           <div className='bgworktext col-xs-12 col-lg-8'>
-            <p>Oversaw responsibilities for closing my deceased father’s business</p>
-            <p>Communicated with attorneys, lobbyists, public and private sector clients to provide final reports on legislative action and expenses</p>
+            <p>Oversaw responsibilities for closing my deceased father’s public affairs and lobbying business</p>
+            <p>Communicated with attorneys, lobbyists, public and private sector clients to provide final reports on state legislative action and expenses</p>
             <p>Finalized billings to clients and oversaw the collection of contractual obligations</p>
             <p>Terminated bank accounts, reconciled and generated accounting reports for accountant.</p>
             <p>Arranged for the liquidation and donation of equipment and inventory to various sources</p>
