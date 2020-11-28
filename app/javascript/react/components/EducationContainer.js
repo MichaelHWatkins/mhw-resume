@@ -11,12 +11,12 @@ const EducationContainer = (props) => {
         <div className='row'>
           <div className='bgedu1 col-xs-12 col-lg-3'>
             <img className="borderbottom" src={crest} alt="crest"/>
-            <h4>University of St.Andrews, Scotland</h4>
+            <h4>University of St.Andrews, UK</h4>
             <h4>Years Attended</h4>
             <p>2010-2014</p>
-            <h4>Major</h4>
-            <p>International Relations</p>
-            <h4>What I learned</h4>
+            <h4>Degree Earned</h4>
+            <p>BA, International Relations</p>
+            <h4>Competencies Earned</h4>
             <p>Learned basic research skills, as well as basic foreign policy.</p>
           </div>
           <div className='bgedu2 col-xs-12 col-lg-3'>
@@ -24,9 +24,9 @@ const EducationContainer = (props) => {
             <h4>Northeastern University, Boston</h4>
             <h4>Years Attended</h4>
             <p>2018-2019</p>
-            <h4>Certificate</h4>
-            <p>Computer Science</p>
-            <h4>What I learned</h4>
+            <h4>Degree Earned</h4>
+            <p>Cert. Computer Science</p>
+            <h4>Competencies Earned</h4>
             <p>Learned basic computer science fundamentals, as well as discrete math.</p>
           </div>
           <div className='bgedu3 col-xs-12 col-lg-3'>
@@ -34,9 +34,9 @@ const EducationContainer = (props) => {
             <h4>Launch Academy, Boston</h4>
             <h4>Years Attended</h4>
             <p>2020</p>
-            <h4>Certificate</h4>
-            <p>Full Stack Development</p>
-            <h4>What I learned</h4>
+            <h4>Degree Earned</h4>
+            <p>Cert. Full Stack Development</p>
+            <h4>Competencies Earned</h4>
             <p>Learned basic industry applicable coding skills, as well as git and terminal commands.</p>
           </div>
         </div>
