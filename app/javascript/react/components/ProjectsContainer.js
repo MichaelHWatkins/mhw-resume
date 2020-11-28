@@ -56,17 +56,6 @@ const ProjectsContainer = (props) => {
             </div>
             <a href="https://github.com/MichaelHWatkins/fantasy_portfolio"><img className="gitcat2" src={gitcat}/></a>
             <p className="center"><a href="http://fantasy-portfolio-league.herokuapp.com/">Fantasy Portfolio League</a></p>
-            <hr className ="center"/>
-              <h3 className="bold">pitch video</h3>
-              <div className="wrapper">
-                <ReactPlayer
-                  className="player"
-                  url="https://vimeo.com/419942574"
-                  width='100%'
-                  top='100%'
-                  />
-              </div>
-            <hr className ="center"/>
           </div>
           <div className='bgproj3 col-xs-12 col-lg-3'>
             <h4>My Resume Website</h4>
