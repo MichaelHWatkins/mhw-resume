@@ -39,8 +39,8 @@ const EducationContainer = (props) => {
               <div className="col-12">
                 <li>Discrete Math</li>
                 <li>Computer Systems</li>
-                <li>Java Programming</li>
-                <li>Basic programming with Python</li>
+                <li>Java</li>
+                <li>Basic programming fundamentals with Python</li>
               </div>
             </div>
           </div>
