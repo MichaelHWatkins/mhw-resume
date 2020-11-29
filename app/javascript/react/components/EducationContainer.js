@@ -16,7 +16,7 @@ const EducationContainer = (props) => {
             <p>2010-2014</p>
             <h4>Degree Earned</h4>
             <p>BA, International Relations</p>
-            <h4>Competencies Earned:</h4>
+            <h4>Skills Earned:</h4>
             <div className="row">
               <div className="col-12">
                 <li>Qualitative Research</li>
@@ -34,7 +34,7 @@ const EducationContainer = (props) => {
             <p>2018-2019</p>
             <h4>Degree Earned</h4>
             <p>Cert. Computer Science</p>
-            <h4>Competencies Earned:</h4>
+            <h4>Skills Earned:</h4>
             <div className="row">
               <div className="col-12">
                 <li>Discrete Math</li>
@@ -51,7 +51,7 @@ const EducationContainer = (props) => {
             <p>2020</p>
             <h4>Degree Earned</h4>
             <p>Cert. Full Stack Development</p>
-            <h4>Competencies Earned:</h4>
+            <h4>Skills Earned:</h4>
             <div className="row">
               <div className="col-12">
                 <li>Javascript</li>

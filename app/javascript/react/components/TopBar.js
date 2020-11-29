@@ -4,7 +4,7 @@ import {Navbar, Nav} from 'react-bootstrap'
 const TopBar = (props) => {
   return (
     <Navbar>
-      <h1>Michael Watkins</h1>
+      <h1 className="title">Michael Watkins</h1>
       <Nav className="ml-auto">
         <div className='landinglink'>
           <Link to={`/`}>About Me</Link>
