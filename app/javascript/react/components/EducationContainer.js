@@ -40,8 +40,7 @@ const EducationContainer = (props) => {
                 <li>Discrete Math</li>
                 <li>Computer Systems</li>
                 <li>Java Programming</li>
-                <li>Thesis and position paper writing</li>
-                <li>Critical Document Analysis</li>
+                <li>Basic programming with Python</li>
               </div>
             </div>
           </div>
