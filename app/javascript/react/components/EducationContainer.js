@@ -16,8 +16,16 @@ const EducationContainer = (props) => {
             <p>2010-2014</p>
             <h4>Degree Earned</h4>
             <p>BA, International Relations</p>
-            <h4>Competencies Earned</h4>
-            <p>Learned basic research skills, as well as basic foreign policy.</p>
+            <h4>Competencies Earned:</h4>
+            <div className="row">
+              <div className="col-12">
+                <li>Qualitative Research</li>
+                <li>Quantitative Research</li>
+                <li>Word Processing</li>
+                <li>Thesis and position paper writing</li>
+                <li>Critical Document Analysis</li>
+              </div>
+            </div>
           </div>
           <div className='bgedu2 col-xs-12 col-lg-3'>
             <img className="borderbottom" src={crestNEU} alt="crest"/>
@@ -26,8 +34,16 @@ const EducationContainer = (props) => {
             <p>2018-2019</p>
             <h4>Degree Earned</h4>
             <p>Cert. Computer Science</p>
-            <h4>Competencies Earned</h4>
-            <p>Learned basic computer science fundamentals, as well as discrete math.</p>
+            <h4>Competencies Earned:</h4>
+            <div className="row">
+              <div className="col-12">
+                <li>Discrete Math</li>
+                <li>Computer Systems</li>
+                <li>Java Programming</li>
+                <li>Thesis and position paper writing</li>
+                <li>Critical Document Analysis</li>
+              </div>
+            </div>
           </div>
           <div className='bgedu3 col-xs-12 col-lg-3'>
             <img className="borderbottom" src={launch} alt="launchcrest"/>
@@ -36,8 +52,18 @@ const EducationContainer = (props) => {
             <p>2020</p>
             <h4>Degree Earned</h4>
             <p>Cert. Full Stack Development</p>
-            <h4>Competencies Earned</h4>
-            <p>Learned basic industry applicable coding skills, as well as git and terminal commands.</p>
+            <h4>Competencies Earned:</h4>
+            <div className="row">
+              <div className="col-12">
+                <li>Javascript</li>
+                <li>Ruby</li>
+                <li>React.js</li>
+                <li>Ruby on Rails</li>
+                <li>PostgreSQL</li>
+                <li>Github</li>
+                <li>Pair Programming</li>
+              </div>
+            </div>
           </div>
         </div>
       </div>
