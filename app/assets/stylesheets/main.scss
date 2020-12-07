@@ -1,6 +1,4 @@
-h1 {
-  font-family: serif;
-}
+
 
 .landinglink {
   padding: 10px
@@ -64,10 +62,18 @@ h1 {
   min-width: 50vw;
   margin-top: 30px;
   margin-left: 20px;
+  border-radius: 5px;
+
+}
+
+p{
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 h4 {
-  font-family: serif;
+  font-family: georgia;
+  font-size: smaller;
 }
 
 img[src*=smartphoneicon] {
@@ -86,11 +92,19 @@ img[src*=email] {
 
 img[src*=github] {
   float: left;
+  width: 60%;
+  display: block;
+  margin-left: 30px;
+  margin-right: auto;
 }
 
 img[src*=linkedin] {
   float: right;
   margin-top: 30px;
+  width: 60%;
+  display: block;
+  margin-left: auto;
+  margin-right: 30px;
 }
 
 img[src*=launch] {
@@ -112,7 +126,7 @@ img[src*=launch] {
 }
 
 img[src*=launchlanding] {
-  width: 200%;
+  width: 60%;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -132,12 +146,15 @@ img[src*=gitcat] {
   margin-right: auto;
 }
 
-.center {
-  text-align: center;
+img[src*=selfportrait] {
+  width: 90%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-.aboutme {
-  border-radius: 5px;
+.center {
+  text-align: center;
 }
 
 .bgwork {
@@ -229,5 +246,5 @@ img[src*=gitcat] {
 }
 
 h1 {
-  font-family: Apple Chancery, cursive;
+  font-family: serif;
 }
