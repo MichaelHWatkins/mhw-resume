@@ -160,15 +160,18 @@ img[src*=selfportrait] {
 
 .bgwork {
   background-color: white;
+  padding-top: 10px;
   margin-top: 30px;
   margin-left: 30px;
 }
 
 .bgworktext {
-  background-color: orange;
+  background-color: white;
   margin-top: 30px;
-  border: 5px solid black;
+  padding-top: 10px;
+  border-left: 5px solid black;
   font-weight: bold;
+  font-family: georgia;
 }
 
 .bgedu1 {

@@ -9,7 +9,7 @@ const WorkContainer = (props) => {
         <div className='row'>
           <div className='bgwork col-xs-12 col-lg-3'>
             <h4>Contractor</h4>
-            <p>Independent</p>
+            <h4>Independent</h4>
             <h4>July 2016 - August 2018</h4>
           </div>
           <div className='bgworktext col-xs-12 col-lg-8'>
@@ -20,7 +20,7 @@ const WorkContainer = (props) => {
         <div className='row'>
           <div className='bgwork col-xs-12  col-lg-3'>
             <h4>Contractor</h4>
-            <p>Phil Watkins Public Affairs</p>
+            <h4>Phil Watkins Public Affairs</h4>
             <h4>July 2015 - August 2016</h4>
           </div>
           <div className='bgworktext col-xs-12 col-lg-8'>
@@ -37,7 +37,7 @@ const WorkContainer = (props) => {
         <div className='row'>
           <div className='bgwork col-xs-12 col-lg-3'>
             <h4>District Representative</h4>
-            <p>District Office of Congressman Newhouse</p>
+            <h4>District Office of Congressman Newhouse</h4>
             <h4>January 2015 - July 2015</h4>
           </div>
           <div className='bgworktext col-xs-12 col-lg-8'>
