@@ -12,7 +12,7 @@
     "@babel/preset-env": "^7.5.5",
     "@babel/preset-react": "^7.0.0",
     "@babel/runtime": "^7.6.2",
-    "@rails/webpacker": "3.5",
+    "@rails/webpacker": "^6.0.0-beta.5",
     "babel-loader": "^8.0.6",
     "bootstrap": "^4.5.3",
     "prop-types": "~15.6.0",
@@ -20,19 +20,19 @@
     "react-bootstrap": "^1.4.0",
     "react-dom": "~16.8.0",
     "react-player": "^2.7.0",
-    "react-router-dom": "5.0.0",
+    "react-router-dom": "^5.2.0",
     "redbox-react": "1.6.0"
   },
   "devDependencies": {
     "babel-jest": "^24.9.0",
     "enzyme": "~3.10.0",
     "enzyme-adapter-react-16": "~1.14.0",
-    "fetch-mock": "~5.13.1",
+    "fetch-mock": "^9.11.0",
     "jest": "^24.9.0",
     "node-sass": "^5.0.0",
     "sass-loader": "^6.0.7",
-    "webpack-cli": "^2.0.10",
-    "webpack-dev-server": "^2.11.1"
+    "webpack-cli": "^4.5.0",
+    "webpack-dev-server": "^3.11.2"
   },
   "scripts": {
     "start": "./bin/webpack-dev-server",
