@@ -85,6 +85,7 @@ const ProjectsContainer = (props) => {
               </div>
             </div>
             <a href="https://github.com/MichaelHWatkins/trivia_game"><img className="gitcat3" src={gitcat}/></a>
+            <p className="center"><a href="http://mikespubquiz.herokuapp.com/">Mike's Pub Quiz</a></p>
           </div>
         </div>
       </div>
