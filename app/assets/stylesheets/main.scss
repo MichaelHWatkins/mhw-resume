@@ -96,7 +96,7 @@ img[src*=github] {
   width: 60%;
   display: block;
   margin-left: 30px;
-  margin-right: auto;
+  margin-right: 30px;
 }
 
 img[src*=linkedin] {
@@ -104,7 +104,7 @@ img[src*=linkedin] {
   margin-top: 30px;
   width: 60%;
   display: block;
-  margin-left: auto;
+  margin-left: 30px;
   margin-right: 30px;
 }
 
@@ -117,6 +117,14 @@ img[src*=Crest] {
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+img[src*=wordpress] {
+  float: right;
+  width: 60%;
+  display: block;
+  margin-left: auto;
+  margin-right: 30px;
 }
 
 img[src*=launch] {
@@ -226,6 +234,14 @@ img[src*=selfportrait] {
   margin-top: 30px;
   margin-left: 60px;
   margin-right: 120px;
+  border: 5px solid black;
+}
+
+.bgproj4 {
+  background-color: white;
+  color: black;
+  margin-top: 30px;
+  margin-left: 120px;
   border: 5px solid black;
 }
 

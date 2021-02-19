@@ -6,6 +6,7 @@ import email from '../../../assets/images/email.png'
 import github from '../../../assets/images/github.png'
 import linkedin from '../../../assets/images/linkedin.png'
 import launchlanding from '../../../assets/images/launchlanding.png'
+import wordpress from '../../../assets/images/wordpress.png'
 
 const LandingContainer = (props) => {
   return(
@@ -43,6 +44,7 @@ const LandingContainer = (props) => {
               <div className="col-sm"><a href="https://github.com/MichaelHWatkins"><img className="gitlogo" src={github}/></a></div>
               <div className="col-sm"><a href="https://www.linkedin.com/in/michael-h-watkins/"><img className="linklogo" src={linkedin}/></a></div>
               <div className="col-sm"><a href="https://launchpass.launchacademy.com/users/MichaelWatkins2567/launcher_profile"><img className="launchlogo" src={launchlanding}/></a></div>
+              <div className="col-sm"><a href="https://mikewantstocode.wordpress.com"><img className="wordpresslogo" src={wordpress}/></a></div>
             </div>
           </div>
 

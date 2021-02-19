@@ -71,6 +71,21 @@ const ProjectsContainer = (props) => {
             </div>
             <a href="https://github.com/MichaelHWatkins/mhw-resume"><img className="gitcat3" src={gitcat}/></a>
           </div>
+          <div className='bgproj4 col-xs-12 col-lg-3'>
+            <h4>MikesPubQuiz</h4>
+            <p>A simple pubquiz app that takes a json object and randomly chooses 10 out of 21 quations for you to play through.</p>
+            <p className="bordertop center">Technologies used:</p>
+            <div className="row">
+              <div className="center col-12">
+                <ul>Ruby on Rails</ul>
+                <ul>Javascript</ul>
+                <ul>React.js</ul>
+                <ul>PostgreSQL</ul>
+                <ul>Json</ul>
+              </div>
+            </div>
+            <a href="https://github.com/MichaelHWatkins/trivia_game"><img className="gitcat3" src={gitcat}/></a>
+          </div>
         </div>
       </div>
     </div>
